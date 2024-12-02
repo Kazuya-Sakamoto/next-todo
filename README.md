@@ -1,4 +1,4 @@
-- [バックエンドリポジトリ](https://github.com/Kazuya-Sakamoto/nest-todo)
+I'm using [frontend-todo-nextjs](https://github.com/GomaGoma676/frontend-todo-nextjs/tree/main) as a reference.
 
 ■ start server
 
@@ -17,3 +17,7 @@ npx prisma db pull
 ```
 npx prisma generate
 ```
+
+■ Link
+
+- [backend | nest-todo](https://github.com/Kazuya-Sakamoto/nest-todo)
